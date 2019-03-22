@@ -1,0 +1,47 @@
+[
+  {
+    "movieId": 1,
+    "movieName": "Blade Runner",
+    "releaseDate": "June 25, 1982",
+    "description": "In the 21st century, a corporation develops human clones to be used as slaves in colonies outside the Earth, identified as replicants. In 2019, a former police officer is hired to hunt down a fugitive group of clones living undercover in Los Angeles.",
+    "rating": "R",
+    "starRating": 3.2,
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,671,1000_AL_.jpg"
+  },
+  {
+    "movieId": 2,
+    "movieName": "Avengers: Infinity War",
+    "releaseDate": "March 18, 2016",
+    "description": "he Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "rating": "PG-13",
+    "starRating": 4.2,
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+  },
+  {
+    "movieId": 5,
+    "movieName": "Ready Player One",
+    "releaseDate": "May 21, 2016",
+    "description": "Curved claw steel hammer",
+    "rating": "PG-13",
+    "starRating": 4.8,
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+  },
+  {
+    "movieId": 8,
+    "movieName": "A Quiet Place ",
+    "releaseDate": "May 15, 2016",
+    "description": "n a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing",
+    "rating": "R",
+    "starRating": 3.7,
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+  },
+  {
+    "movieId": 10,
+    "movieName": "Coming to America",
+    "releaseDate": "October 15, 2015",
+    "description": "An extremely pampered African Prince travels to Queens, New York, and goes undercover to find a wife that he can respect for her intelligence and will.",
+    "rating": "R",
+    "starRating": 4.6,
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGZlNjdlZmMtYTg0MC00MmZkLWIyNDktYmNlOWYzMTkzYWQ1XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,655,1000_AL_.jpg"
+  }
+]
